@@ -1,0 +1,57 @@
+body {
+    font-family:Arial;
+    background-image: url('https://bit.ly/3v615cd');
+    background-repeat:repeat-x;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size:130px ;
+}
+p {
+    font-size: 16px;
+    font-weight:bold ;
+    text-align: justify;
+    line-height: 20px;
+    color: seagreen;
+    background-color:yellow;
+    opacity:0.5;
+    
+}
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    color: seagreen;
+}
+
+ol {
+    font-size: 16px;
+    font-weight:bold ;
+    text-align: justify;
+    line-height: 20px;
+    color: seagreen;
+}
+
+header {
+    border:3px solid gray;
+    padding:10px;
+    margin:10px;
+}
+
+main {
+    border:3px solid gray;
+    padding:10px;
+    margin:10px;
+}
+
+footer {
+    border:3px solid gray;
+    padding:10px;
+    margin:10px;
+}
+
+section{
+
+}
+article{
+
+}
